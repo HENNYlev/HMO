@@ -1,0 +1,10 @@
+#form{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+    direction: rtl;
+    border: 3px black solid;
+}
+#header{
+    text-align: center;
+}
